@@ -37,10 +37,10 @@ I want to design this drawing API so it's extremely intuitive to use. Notice how
 the interfaces have no API methods for updating - there's no
 `Rectangle.setDimensions()` or `Canvas.addShape()` methods here. Instead, I want
 to build this API to 'automagically' update the drawing whenever a property
-changes:
+changes (note how we don't even call any sort of `refresh` function):
 
 ```ts
-canvas.shapes[0] = rectA;
+canvas.shapes = [new Rectangle(...)];
 // => Canvas was redrawn.
 ```
 
