@@ -7,7 +7,7 @@ also very comfortable with HTML and CSS, including accessible, responsive, and
 lightweight frontend web development. I love contributing to open source
 software.
 
-Feel free to reach out at
+Feel free to reach out at 
 [iansanders@mail.usf.edu](mailto:iansanders@mail.usf.edu).
 
 ## Posts
