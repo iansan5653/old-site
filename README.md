@@ -1,16 +1,24 @@
-# Ian's Blog
+# Ian Sanders
 
-Eventually I will make this look nice. For now though, it works.
+I'm a mechanical engineering student at the University of South Florida with a
+passion for software engineering. I prefer TypeScript but I'm familiar with a
+number of languages including Python, vanilla JavaScript, and a bit of C++. I'm
+also very comfortable with HTML and CSS, including accessible, responsive, and
+lightweight frontend web development. I love contributing to open source
+software.
+
+Feel free to reach out at
+[iansanders@mail.usf.edu](mailto:iansanders@mail.usf.edu).
 
 ## Posts
 
 - 8/9/2019 -
-  [Watching _Everything_ with TypeScript and Proxies](watching-everything.md)
+  [Watching Primitive Class Properties With TypeScript Getters and Setters](watching-primitive-properties.md)
 
 ## Personal Projects
 
-- [**compress-tag**](https://github.com/iansan5653/unraw) - Beautiful long strings
-  in JS/TS source code.
+- [**compress-tag**](https://github.com/iansan5653/unraw) - Beautiful long
+  strings in JS/TS source code.
 - [**unraw**](https://github.com/iansan5653/unraw) - Cook your raw strings in
   JavaScript / TypeScript.
 - [**Format Python Docstrings**](https://github.com/iansan5653/unraw) - VSCode
